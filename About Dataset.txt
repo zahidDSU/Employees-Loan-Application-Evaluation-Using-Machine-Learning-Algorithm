@@ -1,0 +1,15 @@
+The provided dataset contains information related to loans and their associated attributes. It consists of 38480 rows and 12 columns, each representing a specific aspect of the loan data. The columns in the dataset and their descriptions are as follows:
+
+funded_amnt: The amount of money funded to the borrower.
+term: The length of the loan term, typically represented in months.
+int_rate: The interest rate on the loan as a floating-point number.
+installment: The monthly payment amount for the loan.
+emp_length: The length of the borrower's employment in a categorical format.
+home_ownership: The ownership status of the borrower's home (e.g., "rent", "own", "mortgage").
+annual_inc: The borrower's annual income.
+verification_status: The status of income verification (e.g., "verified", "not verified").
+loan_status: The status of the loan (e.g., "current", "fully paid", "charged off").
+purpose: The purpose of the loan (e.g., "debt consolidation", "credit card", "home improvement").
+last_credit_pull_d: The date of the last credit pull.
+repay_fail: A binary indicator (0 or 1) representing whether the loan repayment failed (1) or not (0).
+This dataset provides insights into the characteristics of loans, including the loan amount, interest rate, borrower's employment details, home ownership, income, verification status, loan status, purpose, and repayment performance. It is a valuable resource for analyzing loan patterns, default rates, and the impact of various attributes on loan repayment.
